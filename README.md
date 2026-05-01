@@ -85,11 +85,9 @@ Al-Cairo-Kitchen-Project/
 │   ├── silver/                  # Data cleaning & transformation
 │   ├── gold/                    # Star Schema & Dimension modeling
 │   └── schema_constraints/      # Schema enforcement scripts
-│
-├── README.md                    # Main Project Documentation
+|                 
 ├── LICENSE                      # MIT License
-└── requirements.txt             # Python dependencies
-      
+└── README.md                    # Main Project Documentation
     
     
       
