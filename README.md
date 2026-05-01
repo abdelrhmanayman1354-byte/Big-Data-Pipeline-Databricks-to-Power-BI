@@ -1,4 +1,4 @@
-# 🍔 Al Cairo Kitchen: End-to-End Data Engineering & Analytics Project 
+#  Al Cairo Kitchen: End-to-End Data Engineering & Analytics Project 
 
 Welcome to the **Al Cairo Kitchen Analytics** repository! 
 This project demonstrates a full-cycle Data Engineering and Business Intelligence solution. We transformed raw, fragmented restaurant data into a high-tech **Cyberpunk-style Dashboard** that provides deep strategic insights into sales, products, customers, and operations.
@@ -89,3 +89,18 @@ Al-Cairo-Kitchen-Project/
 ├── README.md                    # Main Project Documentation
 ├── LICENSE                      # MIT License
 └── requirements.txt             # Python dependencies
+      
+    
+    
+      
+    
+```
+---
+## 🛡️ License
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
+
+---
+
+## About Me
+Hi there! I'm **[Abdulrahman Ayman Farag]**, a Data Engineer/Analyst passionate about turning raw data into meaningful stories. 
+Feel free to connect with me on [[LinkedIn](https://www.linkedin.com/in/abdelrhman-ayman-45b854361?utm_source=share_via&utm_content=profile&utm_medium=member_android)] or check my other projects!
